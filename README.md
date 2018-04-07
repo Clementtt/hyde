@@ -73,7 +73,7 @@ There are eight themes available at this time.
 
 ![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
 
-To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
 
 ```html
 <body class="theme-base-08">
@@ -100,8 +100,8 @@ Hyde's page orientation can be reversed with a single class.
 
 Hyde has two branches, but only one is used for active development.
 
-- `master` for development.  **All pull requests should be submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+- `Master` for development.  **All pull requests should be submitted against `master`.**
+- `GH-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
 
 
 ## Author
